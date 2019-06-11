@@ -1,2 +1,3 @@
 # emacs
-.emacs config file
+
+Currently using init.el as my config.
